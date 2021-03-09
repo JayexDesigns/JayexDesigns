@@ -1,10 +1,18 @@
 
-<h1>Info</h1>
-<p>Here's a little bit of information about me</p>
+<h1 align="center">Info</h1>
+<p>Hello, I'm Jayex and I started learning and doing programming projects, I really enjoy learning any computing skills from any type, backend, frontend, data science... ANYTHING!
+<br/><br/>
+I'm also good at graphic design, photography and video editing, I'm currently working on my portfolio where you will be able to see all my projects.</p>
 <br/>
 
-<h2>Objectives</h2>
-<p>My aim for this year is to be more active in github and work more as a team aswell. Finishing my portfolio it is also one of my priorities</p>
+<h2 align="center">Objectives</h2>
+<p>My aim for this year is to be more active in github and work more as a team aswell. Finishing my portfolio it is also one of my priorities.</p>
+<p>Some of the projects I'm working on are:</p>
+<ul>
+  <li><a href="https://github.com/JayexDesigns/python-twitch-api">Python Twitch API</a></li>
+  <li>Solar System Web Simulation</li>
+  <li>Flutter Free Games Notifier</li>
+</ul>
 <br/>
 
 <h2 align="center">Skills</h2>
@@ -25,6 +33,8 @@
   <a href="https://www.raspberrypi.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Raspberry Pi.png"/></a>
 </ul>
 <br/>
+<p align="center">(click on the images to visit the webpage)</p>
+<br/>
 
 <h2 align="center">Contact</h2>
 <ul align="center">
@@ -37,3 +47,4 @@
   <a href="https://www.reddit.com/user/JayexDesigns/"><img height="45px" src="https://github.com/JayexDesigns/JayexDesigns/blob/main/contact/Reddit.png"/></a>
   <a href="https://jayexdesigns.github.io"><img height="45px" src="https://github.com/JayexDesigns/JayexDesigns/blob/main/contact/Website.png"/></a>
 </ul>
+<p align="center">(click on the images to visit the webpage)</p>
