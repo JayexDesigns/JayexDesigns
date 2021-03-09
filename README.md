@@ -13,6 +13,7 @@
   <img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/C++.png"/>
   <img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/HTML.png"/>
   <img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/CSS.png"/>
+  <br><br>
   <img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Flutter.png"/>
   <img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/SQL.png"/>
   <img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Node Js.png"/>
