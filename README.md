@@ -38,6 +38,7 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
 
 <h2 align="center">Contact</h2>
 <ul align="center">
+  <br/>
   <a href="https://discordapp.com/users/286817063878656012"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/contact/Discord.png"/></a>
   <a href="https://www.youtube.com/channel/UCP8HMQBxn4Pfk0L0TzvN_Vw"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/contact/Youtube.png"/></a>
   <a href="https://twitch.tv/jayex_designs"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/contact/Twitch.png"/></a>
