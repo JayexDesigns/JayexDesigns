@@ -25,12 +25,13 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/C++.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/HTML.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/CSS.png"/></a>
-  <br/><br/>
   <a href="https://flutter.dev/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Flutter.png"/></a>
+  <br/><br/>
   <a href="https://en.wikipedia.org/wiki/SQL"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/SQL.png"/></a>
   <a href="https://nodejs.org"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Node Js.png"/></a>
   <a href="https://threejs.org"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Three Js.png"/></a>
   <a href="https://jquery.com/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/JQuery.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bash.png"/></a>
   <a href="https://www.raspberrypi.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Raspberry Pi.png"/></a>
 </ul>
 <br/>
