@@ -10,7 +10,6 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
 <p>Some of the projects I'm working on are:</p>
 <ul>
   <li><a href="https://github.com/JayexDesigns/python-twitch-api">Python Twitch API</a></li>
-  <li><a href="https://github.com/JayexDesigns/web-solar-system">Solar System Web Simulation</a></li>
   <li><a href="https://github.com/JayexDesigns/discord-py-template">Discord.py Bot Template</a></li>
 </ul>
 <br/>
