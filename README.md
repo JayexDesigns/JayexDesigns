@@ -1,12 +1,12 @@
 
 <h1 align="center">Info</h1>
-<p>Hello, I'm Jayex and I started learning and doing programming projects, I really enjoy learning any computing skills from any type, backend, frontend, data science... ANYTHING!
+<p>Hello, I'm Jayex and I started learning and doing programming projects. I really enjoy learning any computing skills from any type, backend, frontend, electronics, machine learning, data science... ANYTHING!
 <br/><br/>
 I'm also good at graphic design, photography and video editing, I'm currently working on my portfolio where you will be able to see all my projects.</p>
 <br/>
 
 <h2 align="center">Objectives</h2>
-<p>My aim for this year is to be more active in github and work more as a team aswell. Finishing my portfolio it is also one of my priorities.</p>
+<p>My aim for this year is to be more active in github and work more as a team as well. Finishing my portfolio is also one of my priorities.</p>
 <p>Some of the projects I'm working on are:</p>
 <ul>
   <li><a href="https://github.com/JayexDesigns/python-twitch-api">Python Twitch API</a></li>
