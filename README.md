@@ -28,7 +28,7 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
   <br/><br/>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/C.png"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/C++.png"/></a>
-  <a href="https://docs.microsoft.com/es-es/dotnet/csharp/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/C%23.png"/></a>
+  <a href="https://docs.microsoft.com/es-es/dotnet/csharp/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/CSharp.png"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/SQL.png"/></a>
   <a href="https://reactjs.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/React.png"/></a>
   <a href="https://redux.js.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Redux.png"/></a>
