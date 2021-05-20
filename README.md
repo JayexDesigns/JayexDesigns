@@ -11,7 +11,6 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
 <ul>
   <li><a href="https://github.com/JayexDesigns/python-twitch-api">Python Twitch API</a></li>
   <li><a href="https://github.com/JayexDesigns/discord-py-template">Discord.py Bot Template</a></li>
-  <li><a href="https://github.com/JayexDesigns/FreePass">Free Pass</a></li>
 </ul>
 <br/>
 
