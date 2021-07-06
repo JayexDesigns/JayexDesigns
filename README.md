@@ -19,7 +19,7 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
   <br/>
   <a href="https://python.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Python.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Javascript.png"/></a>
-  <a href="https://typescriptlang.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Typescript.png"/></a>
+  <a href="https://www.typescriptlang.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Typescript.png"/></a>
   <a href="https://nodejs.org"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Node Js.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/HTML.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/CSS.png"/></a>
@@ -42,7 +42,7 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
   <a href="https://getbootstrap.com"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bootstrap.png"/></a>
   <br/><br/>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bash.png"/></a>
-  <a href="https://www.raspberrypi.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Raspberry Pi.png"/></a>
+  <a href="https://raspberrypi.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Raspberry Pi.png"/></a>
 </ul>
 <br/>
 <h6 align="center">(click on the images to visit the webpage, images may not display on mobile phones)</h6>
