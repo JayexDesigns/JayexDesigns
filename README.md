@@ -17,9 +17,9 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
 <h2 align="center">Skills</h2>
 <ul align="center">
   <br/>
-  <a href="https://www.python.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Python.png"/></a>
+  <a href="https://python.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Python.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Javascript.png"/></a>
-  <a href="https://www.typescriptlang.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Typescript.png"/></a>
+  <a href="https://typescriptlang.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Typescript.png"/></a>
   <a href="https://nodejs.org"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Node Js.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/HTML.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/CSS.png"/></a>
@@ -30,17 +30,18 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/C++.png"/></a>
   <a href="https://docs.microsoft.com/es-es/dotnet/csharp/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/CSharp.png"/></a>
   <a href="https://golang.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/GoLang.png"/></a>
+  <a href="https://lua.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Lua.png"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/SQL.png"/></a>
-  <a href="https://www.mongodb.com/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/MongoDB.png"/></a>
   <br/><br/>
+  <a href="https://mongodb.com/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/MongoDB.png"/></a>
   <a href="https://reactjs.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/React.png"/></a>
   <a href="https://redux.js.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Redux.png"/></a>
   <a href="https://material-ui.com/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/MaterialUI.png"/></a>
   <a href="https://threejs.org"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Three Js.png"/></a>
   <a href="https://jquery.com/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/JQuery.png"/></a>
   <a href="https://getbootstrap.com"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bootstrap.png"/></a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bash.png"/></a>
   <br/><br/>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bash.png"/></a>
   <a href="https://www.raspberrypi.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Raspberry Pi.png"/></a>
 </ul>
 <br/>
