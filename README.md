@@ -58,7 +58,7 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
   <a href="https://www.instagram.com/jayex_photo/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/contact/Instagram.png"/></a>
   <a href="https://steamcommunity.com/id/jayexdesigns"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/contact/Steam.png"/></a>
   <a href="https://www.reddit.com/user/JayexDesigns/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/contact/Reddit.png"/></a>
-  <a href="http://jayex.design"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/contact/Website.png"/></a>
+  <a href="https://jayex.design"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/contact/Website.png"/></a>
 </ul>
 <br/>
 <h6 align="center">(click on the images to visit the webpage, images may not display on mobile phones)</h6>
