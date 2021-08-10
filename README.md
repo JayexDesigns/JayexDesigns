@@ -38,10 +38,11 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
   <a href="https://reactjs.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/React.png"/></a>
   <a href="https://redux.js.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Redux.png"/></a>
   <a href="https://material-ui.com/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/MaterialUI.png"/></a>
+  <a href="https://electronjs.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Electron.png"/></a>
   <a href="https://threejs.org"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Three Js.png"/></a>
   <a href="https://jquery.com/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/JQuery.png"/></a>
-  <a href="https://getbootstrap.com"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bootstrap.png"/></a>
   <br/><br/>
+  <a href="https://getbootstrap.com"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bootstrap.png"/></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bash.png"/></a>
   <a href="https://raspberrypi.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Raspberry Pi.png"/></a>
 </ul>
