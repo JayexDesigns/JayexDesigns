@@ -9,9 +9,9 @@ I'm also good at graphic design, photography and video editing, I'm currently wo
 <p>My aim for this year is to be more active in github and work more as a team as well. Finishing my portfolio is also one of my priorities.</p>
 <p>Some of the projects I'm working on are:</p>
 <ul>
+  <li><a href="https://github.com/Fusive/client">Fusive</a></li>
   <li><a href="https://github.com/JayexDesigns/python-twitch-api">Python Twitch API</a></li>
   <li><a href="https://github.com/JayexDesigns/discord-py-template">Discord.py Bot Template</a></li>
-  <li><a href="https://github.com/JayexDesigns/twitch-pubsub-video-player-client">Twitch PubSub Video Player</a></li>
 </ul>
 <br/>
 
