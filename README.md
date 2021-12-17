@@ -1,6 +1,6 @@
 
 <h1 align="center">Info</h1>
-<p>Hello, I'm Jayex and I started learning and doing programming projects. I really enjoy learning any computing skills from any type, backend, frontend, electronics, machine learning, data science... ANYTHING!
+<p>Hello, I'm Jayex and I'm self-taught fullstack developer. I really enjoy learning computing skills from any type, backend, frontend, electronics, machine learning, data science... ANYTHING!
 <br/><br/>
 I'm also good at graphic design, photography and video editing.</p>
 <br/>
