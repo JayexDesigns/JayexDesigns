@@ -42,6 +42,7 @@ I'm also good at graphic design, photography and video editing.</p>
   <a href="https://threejs.org"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Three Js.png"/></a>
   <a href="https://jquery.com/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/JQuery.png"/></a>
   <br/><br/>
+  <a href="https://d3js.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/D3.png"/></a>
   <a href="https://getbootstrap.com"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bootstrap.png"/></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Bash.png"/></a>
   <a href="https://raspberrypi.org/"><img height="45px" src="https://raw.githubusercontent.com/JayexDesigns/JayexDesigns/main/skills/Raspberry Pi.png"/></a>
