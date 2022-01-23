@@ -1,12 +1,12 @@
 
 <h1 align="center">Info</h1>
-<p>Hello, I'm Jayex and I'm self-taught fullstack developer. I really enjoy learning computing skills from any type, backend, frontend, electronics, machine learning, data science... ANYTHING!
+<p>Hello, I'm Jayex and I'm a self-taught full stack developer. I really enjoy learning computing skills from any type, backend, frontend, electronics, machine learning, data science... ANYTHING!
 <br/><br/>
 I'm also good at graphic design, photography and video editing.</p>
 <br/>
 
 <h2 align="center">Objectives</h2>
-<p>My aim for this year is to be more active in github and work more as a team as well.</p>
+<p>My aim for this year is to be more active in GitHub and work more as a team as well.</p>
 <p>Some of the projects I'm working on are:</p>
 <ul>
   <li><a href="https://github.com/Fusive/client">Fusive</a></li>
